@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "projecteweb2023"
+version = "0.1.0"
+description = ""
+authors = ["Mihaela <mbuturuga@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+urllib3_1_26_2 = "^1.26.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
